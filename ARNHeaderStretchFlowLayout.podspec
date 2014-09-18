@@ -11,14 +11,7 @@ Pod::Spec.new do |s|
   s.name             = "ARNHeaderStretchFlowLayout"
   s.version          = "0.1.0"
   s.summary          = "Custom UICollectionViewFlowLayout."
-  s.description      = <<-DESC
-                       An optional longer description of ARNHeaderStretchFlowLayout
-
-                       * Markdown format.
-                       * Don't worry about the indent, we strip it!
-                       DESC
   s.homepage         = "https://github.com/xxxAIRINxxx/ARNHeaderStretchFlowLayout"
-  s.screenshots     = "https://github.com/xxxAIRINxxx/ARNHeaderStretchFlowLayout/blob/master/Screenshots/image1.png", "https://github.com/xxxAIRINxxx/ARNHeaderStretchFlowLayout/blob/master/Screenshots/image2.png"
   s.license          = 'MIT'
   s.author           = { "xxxAIRINxxx" => "xl1138@gmail.com" }
   s.source           = { :git => "https://github.com/xxxAIRINxxx/ARNHeaderStretchFlowLayout.git", :tag => s.version.to_s }
