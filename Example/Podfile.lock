@@ -1,0 +1,20 @@
+PODS:
+  - ARNHeaderStretchFlowLayout (0.1.0)
+  - Expecta (0.3.1)
+  - Specta (0.2.1)
+
+DEPENDENCIES:
+  - ARNHeaderStretchFlowLayout (from `../`)
+  - Expecta
+  - Specta (~> 0.2.1)
+
+EXTERNAL SOURCES:
+  ARNHeaderStretchFlowLayout:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ARNHeaderStretchFlowLayout: 01de6d686d04d478a693af9f4f6a2fedbd98b1f2
+  Expecta: 03aabd0a89d8dea843baecb19a7fd7466a69a31d
+  Specta: 9141310f46b1f68b676650ff2854e1ed0b74163a
+
+COCOAPODS: 0.33.1

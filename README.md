@@ -1,23 +1,32 @@
-pod-template
-============
+# ARNHeaderStretchFlowLayout
 
-An opinionated template for creating a Pod with the following features:
+[![CI Status](http://img.shields.io/travis/xxxAIRINxxx/ARNHeaderStretchFlowLayout.svg?style=flat)](https://travis-ci.org/xxxAIRINxxx/ARNHeaderStretchFlowLayout)
+[![Version](https://img.shields.io/cocoapods/v/ARNHeaderStretchFlowLayout.svg?style=flat)](http://cocoadocs.org/docsets/ARNHeaderStretchFlowLayout)
+[![License](https://img.shields.io/cocoapods/l/ARNHeaderStretchFlowLayout.svg?style=flat)](http://cocoadocs.org/docsets/ARNHeaderStretchFlowLayout)
+[![Platform](https://img.shields.io/cocoapods/p/ARNHeaderStretchFlowLayout.svg?style=flat)](http://cocoadocs.org/docsets/ARNHeaderStretchFlowLayout)
 
-- Git as the source control management system.
-- Clean folder structure.
-- Project generation
-- MIT license.
-- Testing as a standard
-- Turnkey access to Travis CI
+![screenshot1](https://github.com/xxxAIRINxxx/ARNHeaderStretchFlowLayout/blob/master/Screenshots/image1.png)
+![screenshot2](https://github.com/xxxAIRINxxx/ARNHeaderStretchFlowLayout/blob/master/Screenshots/image2.png)
 
-## Getting started
+## Usage
 
-There are two reasons for wanting to work on this template, making your own or improving the one for everyone's. In both cases you will want to work with the ruby classes inside the `setup` folder, and the example base template that it works on from inside `template/ios/`. 
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Best practices
+## Requirements
 
-The CocoaPods one aims to be congruent with this guide: http://guides.cocoapods.org/making/using-pod-lib-create.html so any changes of flow should be updated there also.
+* iOS 6.0+
+* ARC
 
-## Requirements:
+## Installation
 
-- CocoaPods 0.31
+ARNHeaderStretchFlowLayout is available through [CocoaPods](http://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+````
+    pod "ARNHeaderStretchFlowLayout"
+````
+
+## License
+
+ARNHeaderStretchFlowLayout is available under the MIT license. See the LICENSE file for more info.
+

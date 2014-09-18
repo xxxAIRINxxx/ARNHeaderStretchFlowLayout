@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint ${POD_NAME}.podspec' to ensure this is a
+# Be sure to run `pod lib lint ARNHeaderStretchFlowLayout.podspec' to ensure this is a
 # valid spec and remove all comments before submitting the spec.
 #
 # Any lines starting with a # are optional, but encouraged
@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.version          = "0.1.0"
   s.summary          = "Custom UICollectionViewFlowLayout."
   s.description      = <<-DESC
-                       An optional longer description of ${POD_NAME}
+                       An optional longer description of ARNHeaderStretchFlowLayout
 
                        * Markdown format.
                        * Don't worry about the indent, we strip it!
@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/xxxAIRINxxx/ARNHeaderStretchFlowLayout"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
-  s.author           = { "${USER_NAME}" => "${USER_EMAIL}" }
+  s.author           = { "xxxAIRINxxx" => "xl1138@gmail.com" }
   s.source           = { :git => "https://github.com/xxxAIRINxxx/ARNHeaderStretchFlowLayout.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
 
   s.source_files = 'Pod/Classes'
   s.resource_bundles = {
-    '${POD_NAME}' => ['Pod/Assets/*.png']
+    'ARNHeaderStretchFlowLayout' => ['Pod/Assets/*.png']
   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
