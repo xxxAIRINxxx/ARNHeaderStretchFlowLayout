@@ -2,8 +2,8 @@
 //  ARNHeaderStretchFlowLayoutTests.m
 //  ARNHeaderStretchFlowLayoutTests
 //
-//  Created by YOSHINAGA TAKASHI on 09/18/2014.
-//  Copyright (c) 2014 YOSHINAGA TAKASHI. All rights reserved.
+//  Created by Airin on 09/18/2014.
+//  Copyright (c) 2014 Airin. All rights reserved.
 //
 
 SpecBegin(InitialSpecs)

@@ -10,21 +10,14 @@
 Pod::Spec.new do |s|
   s.name             = "ARNHeaderStretchFlowLayout"
   s.version          = "0.1.0"
-  s.summary          = "A short description of ARNHeaderStretchFlowLayout."
-  s.description      = <<-DESC
-                       An optional longer description of ARNHeaderStretchFlowLayout
-
-                       * Markdown format.
-                       * Don't worry about the indent, we strip it!
-                       DESC
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/ARNHeaderStretchFlowLayout"
-  # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
+  s.summary          = "Custom UICollectionViewFlowLayout."
+  s.homepage         = "https://github.com/xxxAIRINxxx/ARNHeaderStretchFlowLayout"
   s.license          = 'MIT'
-  s.author           = { "YOSHINAGA TAKASHI" => "xl1138@gmail.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/ARNHeaderStretchFlowLayout.git", :tag => s.version.to_s }
+  s.author           = { "xxxAIRINxxx" => "xl1138@gmail.com" }
+  s.source           = { :git => "https://github.com/xxxAIRINxxx/ARNHeaderStretchFlowLayout.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.platform     = :ios, '7.0'
+  s.platform     = :ios, '6.0'
   s.requires_arc = true
 
   s.source_files = 'Pod/Classes'

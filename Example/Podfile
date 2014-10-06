@@ -1,3 +1,5 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
 target 'ARNHeaderStretchFlowLayout', :exclusive => true do
   pod "ARNHeaderStretchFlowLayout", :path => "../"
 end
