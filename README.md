@@ -16,6 +16,12 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 * iOS 6.0+
 * ARC
 
+## Swift Version
+
+[ARNHeaderStretchFlowLayout-Swift](https://github.com/xxxAIRINxxx/ARNHeaderStretchFlowLayout-Swift)
+
+* iOS 8.0+
+
 ## Installation
 
 ARNHeaderStretchFlowLayout is available through [CocoaPods](http://cocoapods.org). To install

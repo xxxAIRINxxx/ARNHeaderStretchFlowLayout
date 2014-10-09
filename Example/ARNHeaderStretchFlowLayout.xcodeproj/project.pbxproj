@@ -506,7 +506,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ARNHeaderStretchFlowLayout/ARNHeaderStretchFlowLayout-Prefix.pch";
 				INFOPLIST_FILE = "ARNHeaderStretchFlowLayout/ARNHeaderStretchFlowLayout-Info.plist";
-				ONLY_ACTIVE_ARCH = NO;
+				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;

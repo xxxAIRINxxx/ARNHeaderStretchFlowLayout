@@ -10,7 +10,7 @@
 Pod::Spec.new do |s|
   s.name             = "ARNHeaderStretchFlowLayout"
   s.version          = "0.1.0"
-  s.summary          = "Custom UICollectionViewFlowLayout."
+  s.summary          = "Custom UICollectionViewFlowLayout.(Objective-C Version)"
   s.homepage         = "https://github.com/xxxAIRINxxx/ARNHeaderStretchFlowLayout"
   s.license          = 'MIT'
   s.author           = { "xxxAIRINxxx" => "xl1138@gmail.com" }
