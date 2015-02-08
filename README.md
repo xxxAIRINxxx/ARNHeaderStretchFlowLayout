@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/ARNHeaderStretchFlowLayout.svg?style=flat)](http://cocoadocs.org/docsets/ARNHeaderStretchFlowLayout)
 [![Platform](https://img.shields.io/cocoapods/p/ARNHeaderStretchFlowLayout.svg?style=flat)](http://cocoadocs.org/docsets/ARNHeaderStretchFlowLayout)
 
-![screenshot1](https://github.com/xxxAIRINxxx/ARNHeaderStretchFlowLayout/blob/master/Screenshots/image1.png) &nbsp;&nbsp;&nbsp; ![screenshot2](https://github.com/xxxAIRINxxx/ARNHeaderStretchFlowLayout/blob/master/Screenshots/image2.png)
+![capture](capture.gif "capture")
 
 ## Usage
 

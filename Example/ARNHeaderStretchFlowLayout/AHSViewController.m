@@ -8,7 +8,7 @@
 
 #import "AHSViewController.h"
 
-#import "ARNHeaderStretchFlowLayout.h"
+#import <ARNHeaderStretchFlowLayout.h>
 
 @interface AHSViewController ()
 
@@ -21,21 +21,14 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
     
     ARNHeaderStretchFlowLayout *flowLayout = ARNHeaderStretchFlowLayout.new;
     [flowLayout setSectionInset:UIEdgeInsetsMake(0.0, 0.0, 0.0, 0.0)];
     [flowLayout setItemSize:CGSizeMake(self.view.frame.size.width, 50)];
-    [flowLayout setHeaderReferenceSize:CGSizeMake(self.view.frame.size.width, 160)];
+    [flowLayout setHeaderReferenceSize:CGSizeMake(self.view.frame.size.width, 200)];
     flowLayout.minimumLineSpacing      = 1;
     flowLayout.minimumInteritemSpacing = 0;
     [self.collectionView setCollectionViewLayout:flowLayout];
-}
-
-- (void)didReceiveMemoryWarning
-{
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
 }
 
 - (NSInteger)collectionView:(UICollectionView *)collectionView numberOfItemsInSection:(NSInteger)section
